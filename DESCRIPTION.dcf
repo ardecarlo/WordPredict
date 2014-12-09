@@ -1,0 +1,7 @@
+Title: WordPredict
+License: MIT
+DisplayMode: Normal
+Author: ardecarlo
+AuthorUrl: github.com/ardecarlo
+Type: Shiny
+Tags: ngram backoff context word prediction
